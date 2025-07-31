@@ -1,4 +1,3 @@
-// Переопределение типов для clsx
 declare module 'clsx' {
 	type ClassValue =
 		| string

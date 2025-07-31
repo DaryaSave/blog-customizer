@@ -34,8 +34,6 @@
 	transition: background-color 0.3s ease;
 }
 
-/* Убираем правую границу у крайнего элемента для избежания дублирования */
-
 .item:last-child .label {
 	border: none;
 }

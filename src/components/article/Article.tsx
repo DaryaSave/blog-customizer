@@ -1,5 +1,4 @@
-const clsx = require('clsx');
-
+import clsx from 'clsx';
 import plane from 'src/images/plane.png';
 import { Text } from 'components/text';
 
