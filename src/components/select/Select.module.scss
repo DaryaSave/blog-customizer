@@ -46,8 +46,8 @@
 
 .selectWrapper:not([data-is-active='true'])
 	.placeholder:not([data-status='invalid']):hover {
-	outline: 3px solid #FFC802;
-	color: #FFC802;
+	outline: 3px solid #ffc802;
+	color: #ffc802;
 }
 
 .select {
@@ -71,7 +71,7 @@
 	height: 30px;
 	padding: 5px;
 	padding: 15px 17px;
-	background-color: #FFFFFF;
+	background-color: #ffffff;
 	border: 1px;
 	cursor: pointer;
 	transition: background-color 0.3s ease;
@@ -82,11 +82,11 @@
 }
 
 .option:hover {
-	background-color: #EEEEEE;
+	background-color: #eeeeee;
 }
 
 .option:active {
-	background-color: #D7D7D7;
+	background-color: #d7d7d7;
 }
 
 @mixin option-color-before {

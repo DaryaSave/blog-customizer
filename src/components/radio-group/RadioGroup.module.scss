@@ -30,7 +30,7 @@
 	text-align: center;
 	border-right: 1px solid #000000;
 	cursor: pointer;
-	background-color: #FFFFFF;
+	background-color: #ffffff;
 	transition: background-color 0.3s ease;
 }
 
@@ -39,23 +39,23 @@
 }
 
 .label:hover {
-	background-color: #FFEDAB;
+	background-color: #ffedab;
 }
 
 .label:active {
-	background-color: #D7D7D7;
+	background-color: #d7d7d7;
 }
 
 .item[data-checked='true'] .label {
-	background-color: #FFC802;
+	background-color: #ffc802;
 }
 
 .item[data-checked='true'] .label:hover {
-	background-color: #FFC802;
+	background-color: #ffc802;
 }
 
 .item[data-checked='true'] .label:active {
-	background-color: #FFC802;
+	background-color: #ffc802;
 }
 
 .container {
