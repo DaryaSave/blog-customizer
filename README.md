@@ -21,7 +21,7 @@ npm install
 npm start
 ```
 
-3. Открыть в браузере: http://localhost:3001
+3. Открыть в браузере: http://localhost:3000
 
 ## Технологии:
 - React 18
